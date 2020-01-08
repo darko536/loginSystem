@@ -1,7 +1,7 @@
 <?php
 
 
-        $conn = mysqli_connect("sql1.njit.edu", "db526", "BRyeLmUaC", "db526");
+        $conn = mysqli_connect("sql1.njit.edu", "db526", "**PASSWORD**", "db526");
 
 		//check connection
         if (!$conn) {
